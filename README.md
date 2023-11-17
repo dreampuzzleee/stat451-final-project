@@ -6,3 +6,5 @@ In the final project, we aim to investigate the trends of drug overdose death ra
 
 The issue of drug overdose death rates in the United States is a critical and multifaceted concern that has garnered increasing attention over the past few decades. In our first visualization, our goal is to analyze the trends in drug overdose death rates in the US between 1999 and 2018, with a particular emphasis on gender differences. The plot indicates that males consistently experienced higher death rates than females. Moreover, the overall death rate for both genders has shown a continuous increase each year. Before 2014, the gender gap in death rates was nearly identical. However, from 2014 to 2017, there was a significant surge in the male death rate, leading to a notable widening of the gap between the sexes.
 
+
+![stage2](https://github.com/xzhang36-2074305/stat451-final-project/assets/102765605/e38b0735-9237-4995-b56e-05e4618abff5)
