@@ -22,3 +22,10 @@ In our second visualization, our objective is to examine the variations in death
 ![7091700780000_ pic](https://github.com/xzhang36-2074305/stat451-final-project/assets/102765605/4676c1f7-c57e-4955-8ace-2c664a6dd246)
 
 
+## Visualization 2
+
+
+With previous plots, we realized that the changes in 2016 were significant. Consequently, we aimed to delve into a specific examination of the racial distribution of deaths resulting from drug use during that year. The bar plot illustrates that whites exhibit the highest number of drug overdose deaths, whereas Asians or Pacific Islanders represent the lowest. The disparities between American Indians or Alaska Natives and Blacks or African Americans are relatively modest. It's worth noting that these variations might be influenced by the demographic composition of the United States, where whites constitute approximately 60% of the population.
+
+![7061700779566_ pic](https://github.com/xzhang36-2074305/stat451-final-project/assets/102765605/1d4a373f-2f53-4af1-a1a3-71533d6a1d83)
+
