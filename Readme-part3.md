@@ -1,1 +1,4 @@
 
+In our second visualization, our objective is to examine the variations in death rates across different age groups in the United States. There are a total of nine age groups under consideration. The plotted data reveals a notable surge in death rates among individuals aged 25-34, surpassing that of the 45-54 age group until approximately 2016, and intersecting that of the 35-44 age group. Based on the graph, we hypothesize that there is an increasing trend of drug usage among young and middle-aged adults (25-44 years old) started in 2012. Consequently, this rise in drug use may be contributing to a higher number of deaths within this particular age demographic. Drug death rates for Under 15 and 75 haven't changed much in those 20 years or so.
+
+![6581700771433_ pic](https://github.com/xzhang36-2074305/stat451-final-project/assets/102765605/f976ee25-6dd4-4b78-b767-4a3a28f88bab)
